@@ -10,10 +10,3 @@ A little about me:
 
 Languages:
 - C, Python, Java
-
-GitHub-statistik
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathandavidsson&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandavidsson&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
